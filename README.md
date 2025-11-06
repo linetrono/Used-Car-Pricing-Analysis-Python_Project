@@ -43,7 +43,7 @@ The main goal was to wrangle messy real-world data, perform data cleaning, and g
 ---
 
 ### Files
-[Jupyter Notebook: Data Cleaning & EDA](ebay_car_sales_cleaning_eda.ipynb)
+[Jupyter Notebook: Data Cleaning & EDA](eBay_car_ sales_cleaning_eda.ipynb)
 
 [Ebay Dataset](autos.csv)
 
