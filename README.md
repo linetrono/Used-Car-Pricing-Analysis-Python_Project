@@ -42,4 +42,9 @@ The main goal was to wrangle messy real-world data, perform data cleaning, and g
 
 ---
 
-This analysis can serve as a baseline for more advanced modeling (e.g., predicting price from car features) and is appropriate as a portfolio project demonstrating data cleaning + EDA skills.
+### Files
+[Jupyter Notebook: Data Cleaning & EDA](ebay_car_sales_cleaning_eda.ipynb)
+
+[Ebay Dataset](autos.csv)
+
+
